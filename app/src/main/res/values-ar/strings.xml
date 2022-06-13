@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تسابيح</string>
+    <string name="counter">0</string>
+    <string name="vib">إهتزاز</string>
+    <string name="sou">صوت</string>
+    <string name="Toa">تنبيه</string>
+    <string name="res">إعادة ضبط</string>
+    <string name="input">إدخال</string>
+    <string name="ButtonString">سُبْحَانَ اللَّهِ</string>
+    <string name="counter2">عدد</string>
+    <string name="CounterAlert">تنبيه العدد</string>
+    <string name="CounterText">"العدد = 33"</string>
+    <string name="textC">"العدد = "</string>
+</resources>
